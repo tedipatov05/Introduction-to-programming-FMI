@@ -6,24 +6,30 @@ using namespace std;
 
 int main()
 {
-    char a, b, c, d, e;
+	const char CAPITAL_TO_LOWER = 'a' - 'A';
 
-    cin >> a >> b >> c >> d >> e;
+	char capitalStart, capitalEnd, lowerStart, lowerEnd, symbol;
+	cin >> capitalStart >> capitalEnd >> lowerStart >> lowerEnd >> symbol;
 
+	if (symbol >= 'A' && symbol <= 'Z')
+	{
+		symbol += CAPITAL_TO_LOWER;
+	}
 
+	capitalStart += CAPITAL_TO_LOWER;
+	capitalEnd += CAPITAL_TO_LOWER;
 
-    bool isInAOrB = ((int)e >= (int)a && (int)e <= (int)b) ||
-        ((int)e >= (int)c && (int)e <= (int)d);
+	bool isInFirst = symbol >= capitalStart && symbol <= capitalEnd;
+	bool isInSecond = symbol >= lowerStart && symbol <= lowerEnd;
 
-    bool isInAandB = ((int)e >= (int)a && (int)e <= (int)b) &&
-        ((int)e >= (int)c && (int)e <= (int)d);
+	bool isUnion = isInFirst || isInSecond;
+	bool isIntersection = isInFirst && isInSecond;
+	bool isDifference = isInFirst && !isInSecond;
+	bool isInOnlySet = isUnion && !isIntersection;
 
-    bool isInAWithoutB = ((int)e >= (int)a && (int)e <= (int)b) &&
-        !((int)e >= (int)c && (int)e <= (int)d);
-
-    bool result = isInAOrB && !isInAandB;
-
-    cout << boolalpha << isInAOrB << "," << boolalpha << isInAandB << "," << boolalpha << isInAWithoutB << ","
-        << boolalpha << result;
+	cout << (isUnion ? "true" : "false") << endl;
+	cout << (isIntersection ? "true" : "false") << endl;
+	cout << (isDifference ? "true" : "false") << endl;
+	cout << (isInOnlySet ? "true" : "false") << endl;
 }
 
