@@ -1,0 +1,3 @@
+﻿  Problem 11.cpp
+C:\Users\NITRO\Desktop\УП\Week-02-Prac\Problem 11\Problem 11.cpp(13,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Problem 11.vcxproj -> C:\Users\NITRO\Desktop\УП\Week-02-Prac\x64\Debug\Problem 11.exe
