@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\teodo\\OneDrive\\Desktop\\Introduction-to-programming-FMI\\Week 04 - Sem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6396B4F4-531F-4965-9111-A0DC44A44D50}|Problem 08\\Problem 08.vcxproj|C:\\Users\\teodo\\OneDrive\\Desktop\\Introduction-to-programming-FMI\\Week 04 - Sem\\Problem 08\\Problem 08.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6396B4F4-531F-4965-9111-A0DC44A44D50}|Problem 08\\Problem 08.vcxproj|solutionrelative:Problem 08\\Problem 08.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6C95CEB-FF0F-4F5F-9231-BB4BBE0C43FA}|Problem 06\\Problem 06.vcxproj|C:\\Users\\teodo\\OneDrive\\Desktop\\Introduction-to-programming-FMI\\Week 04 - Sem\\Problem 06\\Problem 06.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F6C95CEB-FF0F-4F5F-9231-BB4BBE0C43FA}|Problem 06\\Problem 06.vcxproj|solutionrelative:Problem 06\\Problem 06.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E75FF1C0-15D0-46E1-9AB6-13C25D49AB34}|Problem 05\\Problem 05.vcxproj|C:\\Users\\teodo\\OneDrive\\Desktop\\Introduction-to-programming-FMI\\Week 04 - Sem\\Problem 05\\Problem 05.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E75FF1C0-15D0-46E1-9AB6-13C25D49AB34}|Problem 05\\Problem 05.vcxproj|solutionrelative:Problem 05\\Problem 05.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22221DD1-EFF5-447C-B25F-C70BB8869B0C}|Problem 04\\Problem 04.vcxproj|C:\\Users\\teodo\\OneDrive\\Desktop\\Introduction-to-programming-FMI\\Week 04 - Sem\\Problem 04\\Problem 04.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{22221DD1-EFF5-447C-B25F-C70BB8869B0C}|Problem 04\\Problem 04.vcxproj|solutionrelative:Problem 04\\Problem 04.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F2D236-2085-4ED2-A684-B62047C2C412}|Problem 02\\Problem 02.vcxproj|C:\\Users\\teodo\\OneDrive\\Desktop\\Introduction-to-programming-FMI\\Week 04 - Sem\\Problem 02\\Problem 02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A7F2D236-2085-4ED2-A684-B62047C2C412}|Problem 02\\Problem 02.vcxproj|solutionrelative:Problem 02\\Problem 02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A455128-7297-44B5-8895-58243751098B}|Problem 01\\Problem 01.vcxproj|C:\\Users\\teodo\\OneDrive\\Desktop\\Introduction-to-programming-FMI\\Week 04 - Sem\\Problem 01\\Problem 01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5A455128-7297-44B5-8895-58243751098B}|Problem 01\\Problem 01.vcxproj|solutionrelative:Problem 01\\Problem 01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27B4BA52-E968-45F4-8CEB-AC68A512C210}|Problem 03\\Problem 03.vcxproj|C:\\Users\\teodo\\OneDrive\\Desktop\\Introduction-to-programming-FMI\\Week 04 - Sem\\Problem 03\\Problem 03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{27B4BA52-E968-45F4-8CEB-AC68A512C210}|Problem 03\\Problem 03.vcxproj|solutionrelative:Problem 03\\Problem 03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A992EA-0977-4F85-9BF2-D11F8E83799E}|Problem 09\\Problem 09.vcxproj|C:\\Users\\teodo\\OneDrive\\Desktop\\Introduction-to-programming-FMI\\Week 04 - Sem\\Problem 09\\Problem 09.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{61A992EA-0977-4F85-9BF2-D11F8E83799E}|Problem 09\\Problem 09.vcxproj|solutionrelative:Problem 09\\Problem 09.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB0A4220-AD48-4BF9-A5CC-3EDF8F11F1E6}|Problem 10\\Problem 10.vcxproj|C:\\Users\\teodo\\OneDrive\\Desktop\\Introduction-to-programming-FMI\\Week 04 - Sem\\Problem 10\\Problem 10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EB0A4220-AD48-4BF9-A5CC-3EDF8F11F1E6}|Problem 10\\Problem 10.vcxproj|solutionrelative:Problem 10\\Problem 10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7CA6127-7FF2-43BA-8FA8-269416038E7E}|Problem 11\\Problem 11.vcxproj|C:\\Users\\teodo\\OneDrive\\Desktop\\Introduction-to-programming-FMI\\Week 04 - Sem\\Problem 11\\Problem 11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A7CA6127-7FF2-43BA-8FA8-269416038E7E}|Problem 11\\Problem 11.vcxproj|solutionrelative:Problem 11\\Problem 11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F18B263-A986-4520-A359-723D2D82893F}|Problem 12\\Problem 12.vcxproj|C:\\Users\\teodo\\OneDrive\\Desktop\\Introduction-to-programming-FMI\\Week 04 - Sem\\Problem 12\\Problem 12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9F18B263-A986-4520-A359-723D2D82893F}|Problem 12\\Problem 12.vcxproj|solutionrelative:Problem 12\\Problem 12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Problem 08.cpp",
+              "DocumentMoniker": "C:\\Users\\teodo\\OneDrive\\Desktop\\Introduction-to-programming-FMI\\Week 04 - Sem\\Problem 08\\Problem 08.cpp",
+              "RelativeDocumentMoniker": "Problem 08\\Problem 08.cpp",
+              "ToolTip": "C:\\Users\\teodo\\OneDrive\\Desktop\\Introduction-to-programming-FMI\\Week 04 - Sem\\Problem 08\\Problem 08.cpp",
+              "RelativeToolTip": "Problem 08\\Problem 08.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-24T12:49:33.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Problem 06.cpp",
+              "DocumentMoniker": "C:\\Users\\teodo\\OneDrive\\Desktop\\Introduction-to-programming-FMI\\Week 04 - Sem\\Problem 06\\Problem 06.cpp",
+              "RelativeDocumentMoniker": "Problem 06\\Problem 06.cpp",
+              "ToolTip": "C:\\Users\\teodo\\OneDrive\\Desktop\\Introduction-to-programming-FMI\\Week 04 - Sem\\Problem 06\\Problem 06.cpp",
+              "RelativeToolTip": "Problem 06\\Problem 06.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-24T12:43:09.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Problem 05.cpp",
+              "DocumentMoniker": "C:\\Users\\teodo\\OneDrive\\Desktop\\Introduction-to-programming-FMI\\Week 04 - Sem\\Problem 05\\Problem 05.cpp",
+              "RelativeDocumentMoniker": "Problem 05\\Problem 05.cpp",
+              "ToolTip": "C:\\Users\\teodo\\OneDrive\\Desktop\\Introduction-to-programming-FMI\\Week 04 - Sem\\Problem 05\\Problem 05.cpp",
+              "RelativeToolTip": "Problem 05\\Problem 05.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-24T12:33:31.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Problem 02.cpp",
+              "DocumentMoniker": "C:\\Users\\teodo\\OneDrive\\Desktop\\Introduction-to-programming-FMI\\Week 04 - Sem\\Problem 02\\Problem 02.cpp",
+              "RelativeDocumentMoniker": "Problem 02\\Problem 02.cpp",
+              "ToolTip": "C:\\Users\\teodo\\OneDrive\\Desktop\\Introduction-to-programming-FMI\\Week 04 - Sem\\Problem 02\\Problem 02.cpp",
+              "RelativeToolTip": "Problem 02\\Problem 02.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-24T12:05:18.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Problem 04.cpp",
+              "DocumentMoniker": "C:\\Users\\teodo\\OneDrive\\Desktop\\Introduction-to-programming-FMI\\Week 04 - Sem\\Problem 04\\Problem 04.cpp",
+              "RelativeDocumentMoniker": "Problem 04\\Problem 04.cpp",
+              "ToolTip": "C:\\Users\\teodo\\OneDrive\\Desktop\\Introduction-to-programming-FMI\\Week 04 - Sem\\Problem 04\\Problem 04.cpp",
+              "RelativeToolTip": "Problem 04\\Problem 04.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-24T12:28:13.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Problem 01.cpp",
+              "DocumentMoniker": "C:\\Users\\teodo\\OneDrive\\Desktop\\Introduction-to-programming-FMI\\Week 04 - Sem\\Problem 01\\Problem 01.cpp",
+              "RelativeDocumentMoniker": "Problem 01\\Problem 01.cpp",
+              "ToolTip": "C:\\Users\\teodo\\OneDrive\\Desktop\\Introduction-to-programming-FMI\\Week 04 - Sem\\Problem 01\\Problem 01.cpp",
+              "RelativeToolTip": "Problem 01\\Problem 01.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-24T12:00:38.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Problem 03.cpp",
+              "DocumentMoniker": "C:\\Users\\teodo\\OneDrive\\Desktop\\Introduction-to-programming-FMI\\Week 04 - Sem\\Problem 03\\Problem 03.cpp",
+              "RelativeDocumentMoniker": "Problem 03\\Problem 03.cpp",
+              "ToolTip": "C:\\Users\\teodo\\OneDrive\\Desktop\\Introduction-to-programming-FMI\\Week 04 - Sem\\Problem 03\\Problem 03.cpp",
+              "RelativeToolTip": "Problem 03\\Problem 03.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-24T12:23:04.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Problem 09.cpp",
+              "DocumentMoniker": "C:\\Users\\teodo\\OneDrive\\Desktop\\Introduction-to-programming-FMI\\Week 04 - Sem\\Problem 09\\Problem 09.cpp",
+              "RelativeDocumentMoniker": "Problem 09\\Problem 09.cpp",
+              "ToolTip": "C:\\Users\\teodo\\OneDrive\\Desktop\\Introduction-to-programming-FMI\\Week 04 - Sem\\Problem 09\\Problem 09.cpp",
+              "RelativeToolTip": "Problem 09\\Problem 09.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-24T11:59:38.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Problem 10.cpp",
+              "DocumentMoniker": "C:\\Users\\teodo\\OneDrive\\Desktop\\Introduction-to-programming-FMI\\Week 04 - Sem\\Problem 10\\Problem 10.cpp",
+              "RelativeDocumentMoniker": "Problem 10\\Problem 10.cpp",
+              "ToolTip": "C:\\Users\\teodo\\OneDrive\\Desktop\\Introduction-to-programming-FMI\\Week 04 - Sem\\Problem 10\\Problem 10.cpp",
+              "RelativeToolTip": "Problem 10\\Problem 10.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-24T11:57:03.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Problem 11.cpp",
+              "DocumentMoniker": "C:\\Users\\teodo\\OneDrive\\Desktop\\Introduction-to-programming-FMI\\Week 04 - Sem\\Problem 11\\Problem 11.cpp",
+              "RelativeDocumentMoniker": "Problem 11\\Problem 11.cpp",
+              "ToolTip": "C:\\Users\\teodo\\OneDrive\\Desktop\\Introduction-to-programming-FMI\\Week 04 - Sem\\Problem 11\\Problem 11.cpp",
+              "RelativeToolTip": "Problem 11\\Problem 11.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-24T11:51:30.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Problem 12.cpp",
+              "DocumentMoniker": "C:\\Users\\teodo\\OneDrive\\Desktop\\Introduction-to-programming-FMI\\Week 04 - Sem\\Problem 12\\Problem 12.cpp",
+              "RelativeDocumentMoniker": "Problem 12\\Problem 12.cpp",
+              "ToolTip": "C:\\Users\\teodo\\OneDrive\\Desktop\\Introduction-to-programming-FMI\\Week 04 - Sem\\Problem 12\\Problem 12.cpp",
+              "RelativeToolTip": "Problem 12\\Problem 12.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-24T11:45:09.492Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
