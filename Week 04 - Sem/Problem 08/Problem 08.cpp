@@ -7,6 +7,10 @@ using namespace std;
 
 int mylog(int k, int n) {
 
+    if (n == 1) {
+        return 0;
+    }
+
     int step = 0;
     int stepResult = 1;
     while (stepResult < n) {
