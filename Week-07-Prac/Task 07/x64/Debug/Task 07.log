@@ -1,0 +1,4 @@
+﻿  Task 07.cpp
+C:\Users\teodo\OneDrive\Desktop\Introduction-to-programming-FMI\Week-07-Prac\Task 07\Task 07.cpp(18,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\teodo\OneDrive\Desktop\Introduction-to-programming-FMI\Week-07-Prac\Task 07\Task 07.cpp(18,40): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Task 07.vcxproj -> C:\Users\teodo\OneDrive\Desktop\Introduction-to-programming-FMI\Week-07-Prac\x64\Debug\Task 07.exe

@@ -5,9 +5,8 @@
 using namespace std;
 
 
-void uniteArrays(const int arr1[], int arr1Length,const  int arr2[], int arr2Length, int result[]) {
+void uniteArrays(const int arr1[], int arr1Length, const int arr2[], int arr2Length, int result[]) {
 
-	//int resultLength = arr1Length + arr2Length;
 	int i = 0, j = 0, r = 0;;
 
 	while (i < arr1Length && j < arr2Length) {

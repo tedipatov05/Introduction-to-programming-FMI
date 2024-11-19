@@ -1,0 +1,5 @@
+﻿  Task 12.cpp
+C:\Users\teodo\OneDrive\Desktop\Introduction-to-programming-FMI\Week-07-Prac\Task 12\Task 12.cpp(62,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\teodo\OneDrive\Desktop\Introduction-to-programming-FMI\Week-07-Prac\Task 12\Task 12.cpp(64,27): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\teodo\OneDrive\Desktop\Introduction-to-programming-FMI\Week-07-Prac\Task 12\Task 12.cpp(68,20): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Task 12.vcxproj -> C:\Users\teodo\OneDrive\Desktop\Introduction-to-programming-FMI\Week-07-Prac\x64\Debug\Task 12.exe

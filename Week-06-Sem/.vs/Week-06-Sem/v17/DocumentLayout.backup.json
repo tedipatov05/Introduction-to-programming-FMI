@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "Task 05\\Task 05.cpp",
               "ToolTip": "C:\\Users\\teodo\\OneDrive\\Desktop\\Introduction-to-programming-FMI\\Week-06-Sem\\Task 05\\Task 05.cpp",
               "RelativeToolTip": "Task 05\\Task 05.cpp",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-07T14:31:38.857Z",
               "EditorCaption": ""
@@ -53,7 +53,7 @@
               "RelativeDocumentMoniker": "Task 04\\Task 04.cpp",
               "ToolTip": "C:\\Users\\teodo\\OneDrive\\Desktop\\Introduction-to-programming-FMI\\Week-06-Sem\\Task 04\\Task 04.cpp",
               "RelativeToolTip": "Task 04\\Task 04.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAMwAoAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAMwBAAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-07T14:19:19.382Z",
               "EditorCaption": ""
@@ -68,8 +68,7 @@
               "RelativeToolTip": "Task 03\\Task 03.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-07T13:49:13.743Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-07T13:49:13.743Z"
             },
             {
               "$type": "Document",
@@ -81,8 +80,7 @@
               "RelativeToolTip": "Task 02\\Task 02.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-07T13:42:39.64Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-07T13:42:39.64Z"
             },
             {
               "$type": "Document",
@@ -94,8 +92,7 @@
               "RelativeToolTip": "Task 01\\Task 01.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-07T13:37:12.234Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-07T13:37:12.234Z"
             }
           ]
         }

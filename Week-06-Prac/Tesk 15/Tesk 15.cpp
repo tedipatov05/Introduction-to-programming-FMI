@@ -5,7 +5,7 @@
 using namespace std;
 
 int searchForZero(const int arr[], int n) {
-	int low = 0; 
+	int low = 0;
 	int high = n - 1;
 
 	while (low <= high) {
@@ -21,17 +21,17 @@ int searchForZero(const int arr[], int n) {
 		else {
 			low = mid + 1;
 		}
-		
+
 
 	}
 
-	return -1; 
+	return -1;
 
 }
 
 int main()
 {
-	int n; 
+	int n;
 	cin >> n;
 	int arr[100];
 
@@ -43,6 +43,6 @@ int main()
 
 	cout << result;
 
-	
+
 }
 
