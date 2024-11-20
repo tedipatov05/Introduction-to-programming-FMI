@@ -1,12 +1,45 @@
-// Task 11.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+﻿
 
 #include <iostream>
 using namespace std;
 
-constexpr int SIZE = 100;
+const int SIZE = 10;
 
-int findSubmatrixSum(const int matrix[][SIZE], int m, int n, int p, int q);
+int maxSubmatrixSum(const int matrix[SIZE][SIZE], int m, int n, int p, int q) {
+    int maxSum = INT_MIN;
+
+    int rowSums[SIZE][SIZE] = { 0 };
+
+    for (int r = 0; r < m; r++) {
+        for (int c = 0; c <= n - q; c++) {
+            for (int k = 0; k < q; k++) {
+                rowSums[r][c] += matrix[r][c + k];
+            }
+        }
+    }
+
+    for (int c = 0; c <= n - q; c++) {
+        for (int r = 0; r <= m - p; r++) {
+            int currentSum = 0;
+            for (int k = 0; k < p; k++) {
+                currentSum += rowSums[r + k][c];
+            }
+            maxSum = maxSum > currentSum ? maxSum : currentSum; //max(maxSum, currentSum);
+        }
+    }
+
+    return maxSum;
+}
+
+void initializeMatrix(int matrix[][SIZE], size_t rows, size_t cols) {
+    for (size_t i = 0; i < rows; i++) {
+
+        for (size_t j = 0; j < cols; j++) {
+
+            cin >> matrix[i][j];
+        }
+    }
+}
 
 int main()
 {
@@ -18,46 +51,16 @@ int main()
 
     int matrix[SIZE][SIZE];
 
-    for (int r = 0; r < m; r++) {
-        for (int c = 0; c < n; c++) {
-            cin >> matrix[r][c];
-        }
-    }
+    initializeMatrix(matrix, m, n);
 
-    int result = findSubmatrixSum(matrix, m, n, p, q);
+    int result = maxSubmatrixSum(matrix, m, n, p, q);
 
     cout << result;
 
 
 }
 
-int findSubmatrixSum(const int matrix[][SIZE], int m, int n, int p, int q) {
-    int maxSum = INT_MIN;
 
-    for (size_t row = 0; row <= m - p; row++) {
-        int tempSum[SIZE] = { 0 };
 
-        for (size_t i = 0; i < p; i++) {
-            for (int j = 0; j < q; j++) {
-                tempSum[i] += matrix[row + i][j];
-            }
-        }
 
-        int currentSum = 0; 
-
-        for (size_t col = 0; col < q; col++) {
-            currentSum += tempSum[col];
-        }
-
-        maxSum = maxSum > currentSum ? maxSum : currentSum;
-
-        for (size_t col = q; col < n; col++) {
-            currentSum += tempSum[col] - tempSum[col - q];
-            maxSum = maxSum > currentSum ? maxSum : currentSum;
-
-        }
-    }
-
-    return maxSum;
-}
 
