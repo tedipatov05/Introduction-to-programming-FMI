@@ -5,26 +5,26 @@ using namespace std;
 
 const int SIZE = 10;
 
-int maxSubmatrixSum(const int matrix[SIZE][SIZE], int m, int n, int p, int q) {
+int maxSubmatrixSum(const int matrix[SIZE][SIZE], size_t m, size_t n, size_t p, size_t q) {
     int maxSum = INT_MIN;
 
     int rowSums[SIZE][SIZE] = { 0 };
 
-    for (int r = 0; r < m; r++) {
-        for (int c = 0; c <= n - q; c++) {
-            for (int k = 0; k < q; k++) {
+    for (size_t r = 0; r < m; r++) {
+        for (size_t c = 0; c <= n - q; c++) {
+            for (size_t k = 0; k < q; k++) {
                 rowSums[r][c] += matrix[r][c + k];
             }
         }
     }
 
-    for (int c = 0; c <= n - q; c++) {
-        for (int r = 0; r <= m - p; r++) {
+    for (size_t c = 0; c <= n - q; c++) {
+        for (size_t r = 0; r <= m - p; r++) {
             int currentSum = 0;
-            for (int k = 0; k < p; k++) {
+            for (size_t k = 0; k < p; k++) {
                 currentSum += rowSums[r + k][c];
             }
-            maxSum = maxSum > currentSum ? maxSum : currentSum; //max(maxSum, currentSum);
+            maxSum = maxSum > currentSum ? maxSum : currentSum;
         }
     }
 

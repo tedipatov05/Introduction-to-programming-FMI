@@ -35,9 +35,9 @@ bool isSubarray(int arr1[], int arr1Length, int arr2[], int arr2Length) {
 int main()
 {
 	int arr1[] = { 1,2,3,4 };
-	int arr2[] = { 1,2,3 };
+	int arr2[] = { 1,2,3, 5 };
 
-	bool isSubArray = isSubarray(arr1, 4, arr2, 3);
+	bool isSubArray = isSubarray(arr1, 4, arr2, 4);
 
 	cout << boolalpha << isSubArray;
 }

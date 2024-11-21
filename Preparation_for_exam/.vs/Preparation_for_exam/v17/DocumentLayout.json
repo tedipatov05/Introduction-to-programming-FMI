@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\teodo\\OneDrive\\Desktop\\Introduction-to-programming-FMI\\Preparation_for_exam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A691A1C-E699-4B71-8AF5-39AD506058B5}|Task 03\\Task 03.vcxproj|C:\\Users\\teodo\\OneDrive\\Desktop\\Introduction-to-programming-FMI\\Preparation_for_exam\\Task 03\\Task 03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A691A1C-E699-4B71-8AF5-39AD506058B5}|Task 03\\Task 03.vcxproj|solutionrelative:Task 03\\Task 03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30063F97-1FBD-4003-9D8E-3240E5B23405}|Task 02\\Task 02.vcxproj|C:\\Users\\teodo\\OneDrive\\Desktop\\Introduction-to-programming-FMI\\Preparation_for_exam\\Task 02\\Task 02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{30063F97-1FBD-4003-9D8E-3240E5B23405}|Task 02\\Task 02.vcxproj|solutionrelative:Task 02\\Task 02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90967994-6662-4B4D-B72B-ED8067EBEDA9}|Task 01\\Task 01.vcxproj|C:\\Users\\teodo\\OneDrive\\Desktop\\Introduction-to-programming-FMI\\Preparation_for_exam\\Task 01\\Task 01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90967994-6662-4B4D-B72B-ED8067EBEDA9}|Task 01\\Task 01.vcxproj|solutionrelative:Task 01\\Task 01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Task 03.cpp",
+              "DocumentMoniker": "C:\\Users\\teodo\\OneDrive\\Desktop\\Introduction-to-programming-FMI\\Preparation_for_exam\\Task 03\\Task 03.cpp",
+              "RelativeDocumentMoniker": "Task 03\\Task 03.cpp",
+              "ToolTip": "C:\\Users\\teodo\\OneDrive\\Desktop\\Introduction-to-programming-FMI\\Preparation_for_exam\\Task 03\\Task 03.cpp",
+              "RelativeToolTip": "Task 03\\Task 03.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAUwCsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-20T19:47:15.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Task 02.cpp",
+              "DocumentMoniker": "C:\\Users\\teodo\\OneDrive\\Desktop\\Introduction-to-programming-FMI\\Preparation_for_exam\\Task 02\\Task 02.cpp",
+              "RelativeDocumentMoniker": "Task 02\\Task 02.cpp",
+              "ToolTip": "C:\\Users\\teodo\\OneDrive\\Desktop\\Introduction-to-programming-FMI\\Preparation_for_exam\\Task 02\\Task 02.cpp",
+              "RelativeToolTip": "Task 02\\Task 02.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-20T18:45:26.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Task 01.cpp",
+              "DocumentMoniker": "C:\\Users\\teodo\\OneDrive\\Desktop\\Introduction-to-programming-FMI\\Preparation_for_exam\\Task 01\\Task 01.cpp",
+              "RelativeDocumentMoniker": "Task 01\\Task 01.cpp",
+              "ToolTip": "C:\\Users\\teodo\\OneDrive\\Desktop\\Introduction-to-programming-FMI\\Preparation_for_exam\\Task 01\\Task 01.cpp",
+              "RelativeToolTip": "Task 01\\Task 01.cpp",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-20T18:03:35.651Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

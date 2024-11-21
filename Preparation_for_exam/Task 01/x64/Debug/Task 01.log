@@ -1,0 +1,3 @@
+﻿  Task 01.cpp
+C:\Users\teodo\OneDrive\Desktop\Introduction-to-programming-FMI\Preparation_for_exam\Task 01\Task 01.cpp(27,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Task 01.vcxproj -> C:\Users\teodo\OneDrive\Desktop\Introduction-to-programming-FMI\Preparation_for_exam\x64\Debug\Task 01.exe
