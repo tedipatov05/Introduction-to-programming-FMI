@@ -1,0 +1,4 @@
+﻿  Task 06.cpp
+C:\Users\teodo\OneDrive\Desktop\Introduction-to-programming-FMI\Week-09-Pract-09\Task 06\Task 06.cpp(24,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\teodo\OneDrive\Desktop\Introduction-to-programming-FMI\Week-09-Pract-09\Task 06\Task 06.cpp(27,14): warning C4552: '>>': result of expression not used
+  Task 06.vcxproj -> C:\Users\teodo\OneDrive\Desktop\Introduction-to-programming-FMI\Week-09-Pract-09\x64\Debug\Task 06.exe

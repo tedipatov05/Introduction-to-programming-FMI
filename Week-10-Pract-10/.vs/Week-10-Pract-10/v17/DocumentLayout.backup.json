@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\teodo\\OneDrive\\Desktop\\Introduction-to-programming-FMI\\Week-10-Pract-10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{535EA8D6-35A8-4357-84C4-E65DB89FDBE9}|Task 13\\Task 13.vcxproj|C:\\Users\\teodo\\OneDrive\\Desktop\\Introduction-to-programming-FMI\\Week-10-Pract-10\\Task 13\\Task 13.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{535EA8D6-35A8-4357-84C4-E65DB89FDBE9}|Task 13\\Task 13.vcxproj|solutionrelative:Task 13\\Task 13.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D1677DD-4F79-47BC-A8FD-035813481C2F}|Task 12\\Task 12.vcxproj|C:\\Users\\teodo\\OneDrive\\Desktop\\Introduction-to-programming-FMI\\Week-10-Pract-10\\Task 12\\Task 12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3D1677DD-4F79-47BC-A8FD-035813481C2F}|Task 12\\Task 12.vcxproj|solutionrelative:Task 12\\Task 12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBDA73F0-E7FB-4289-83B2-0014FAD54C32}|Task 11\\Task 11.vcxproj|C:\\Users\\teodo\\OneDrive\\Desktop\\Introduction-to-programming-FMI\\Week-10-Pract-10\\Task 11\\Task 11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DBDA73F0-E7FB-4289-83B2-0014FAD54C32}|Task 11\\Task 11.vcxproj|solutionrelative:Task 11\\Task 11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31503C3D-7B5D-470A-B594-2A4B74738639}|Task 01\\Task 01.vcxproj|C:\\Users\\teodo\\OneDrive\\Desktop\\Introduction-to-programming-FMI\\Week-10-Pract-10\\Task 01\\Task 01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{31503C3D-7B5D-470A-B594-2A4B74738639}|Task 01\\Task 01.vcxproj|solutionrelative:Task 01\\Task 01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0746919-D812-4D2C-8B38-767B8CF814EB}|Task 10\\Task 10.vcxproj|C:\\Users\\teodo\\OneDrive\\Desktop\\Introduction-to-programming-FMI\\Week-10-Pract-10\\Task 10\\Task 10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E0746919-D812-4D2C-8B38-767B8CF814EB}|Task 10\\Task 10.vcxproj|solutionrelative:Task 10\\Task 10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDA3B3C-E9A3-4AB6-A38B-7D2A4AF3E2A9}|Task 09\\Task 09.vcxproj|C:\\Users\\teodo\\OneDrive\\Desktop\\Introduction-to-programming-FMI\\Week-10-Pract-10\\Task 09\\Task 09.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ECDA3B3C-E9A3-4AB6-A38B-7D2A4AF3E2A9}|Task 09\\Task 09.vcxproj|solutionrelative:Task 09\\Task 09.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F835AC3-5342-4DB8-9563-233280357694}|Task 02\\Task 02.vcxproj|C:\\Users\\teodo\\OneDrive\\Desktop\\Introduction-to-programming-FMI\\Week-10-Pract-10\\Task 02\\Task 02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5F835AC3-5342-4DB8-9563-233280357694}|Task 02\\Task 02.vcxproj|solutionrelative:Task 02\\Task 02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Task 13.cpp",
+              "DocumentMoniker": "C:\\Users\\teodo\\OneDrive\\Desktop\\Introduction-to-programming-FMI\\Week-10-Pract-10\\Task 13\\Task 13.cpp",
+              "RelativeDocumentMoniker": "Task 13\\Task 13.cpp",
+              "ToolTip": "C:\\Users\\teodo\\OneDrive\\Desktop\\Introduction-to-programming-FMI\\Week-10-Pract-10\\Task 13\\Task 13.cpp",
+              "RelativeToolTip": "Task 13\\Task 13.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-06T07:59:50.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Task 12.cpp",
+              "DocumentMoniker": "C:\\Users\\teodo\\OneDrive\\Desktop\\Introduction-to-programming-FMI\\Week-10-Pract-10\\Task 12\\Task 12.cpp",
+              "RelativeDocumentMoniker": "Task 12\\Task 12.cpp",
+              "ToolTip": "C:\\Users\\teodo\\OneDrive\\Desktop\\Introduction-to-programming-FMI\\Week-10-Pract-10\\Task 12\\Task 12.cpp",
+              "RelativeToolTip": "Task 12\\Task 12.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-06T07:52:36.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Task 11.cpp",
+              "DocumentMoniker": "C:\\Users\\teodo\\OneDrive\\Desktop\\Introduction-to-programming-FMI\\Week-10-Pract-10\\Task 11\\Task 11.cpp",
+              "RelativeDocumentMoniker": "Task 11\\Task 11.cpp",
+              "ToolTip": "C:\\Users\\teodo\\OneDrive\\Desktop\\Introduction-to-programming-FMI\\Week-10-Pract-10\\Task 11\\Task 11.cpp",
+              "RelativeToolTip": "Task 11\\Task 11.cpp",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-06T07:42:39.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Task 10.cpp",
+              "DocumentMoniker": "C:\\Users\\teodo\\OneDrive\\Desktop\\Introduction-to-programming-FMI\\Week-10-Pract-10\\Task 10\\Task 10.cpp",
+              "RelativeDocumentMoniker": "Task 10\\Task 10.cpp",
+              "ToolTip": "C:\\Users\\teodo\\OneDrive\\Desktop\\Introduction-to-programming-FMI\\Week-10-Pract-10\\Task 10\\Task 10.cpp",
+              "RelativeToolTip": "Task 10\\Task 10.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-06T07:37:32.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Task 09.cpp",
+              "DocumentMoniker": "C:\\Users\\teodo\\OneDrive\\Desktop\\Introduction-to-programming-FMI\\Week-10-Pract-10\\Task 09\\Task 09.cpp",
+              "RelativeDocumentMoniker": "Task 09\\Task 09.cpp",
+              "ToolTip": "C:\\Users\\teodo\\OneDrive\\Desktop\\Introduction-to-programming-FMI\\Week-10-Pract-10\\Task 09\\Task 09.cpp",
+              "RelativeToolTip": "Task 09\\Task 09.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwBcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-06T07:29:40.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Task 02.cpp",
+              "DocumentMoniker": "C:\\Users\\teodo\\OneDrive\\Desktop\\Introduction-to-programming-FMI\\Week-10-Pract-10\\Task 02\\Task 02.cpp",
+              "RelativeDocumentMoniker": "Task 02\\Task 02.cpp",
+              "ToolTip": "C:\\Users\\teodo\\OneDrive\\Desktop\\Introduction-to-programming-FMI\\Week-10-Pract-10\\Task 02\\Task 02.cpp",
+              "RelativeToolTip": "Task 02\\Task 02.cpp",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAHIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-06T06:48:01.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Task 01.cpp",
+              "DocumentMoniker": "C:\\Users\\teodo\\OneDrive\\Desktop\\Introduction-to-programming-FMI\\Week-10-Pract-10\\Task 01\\Task 01.cpp",
+              "RelativeDocumentMoniker": "Task 01\\Task 01.cpp",
+              "ToolTip": "C:\\Users\\teodo\\OneDrive\\Desktop\\Introduction-to-programming-FMI\\Week-10-Pract-10\\Task 01\\Task 01.cpp",
+              "RelativeToolTip": "Task 01\\Task 01.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-06T06:14:52.939Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
