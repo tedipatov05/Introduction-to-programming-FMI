@@ -4,11 +4,42 @@
 #include <iostream>
 using namespace std;
 
-void insertSymbol(const char* text, char* result, char symbol, unsigned int idx) {
+constexpr int BUFFER_SIZE = 100;
 
+void insertSymbol(const char* text, char* result, char symbol, unsigned int idx) {
+    /*const char* ptr = text; 
+    char* resPtr = result; */ 
+
+    for (unsigned int i = 0; i < idx; i++) {
+        *result++ = *text++;
+    }
+
+    *result++ = symbol;
+
+    while (*text) {
+        *result++ = *text++;
+    }
+
+    *result = '\0';
 }
 
 int main()
 {
+	
+	char buffer[BUFFER_SIZE];
+
+	cin.getline(buffer, BUFFER_SIZE);
+
+	char symbolToInsert;
+	cin >> symbolToInsert;
+
+	int idx;
+	cin >> idx;
+
+	char bufferResult [BUFFER_SIZE] ;
+
+	insertSymbol(buffer, bufferResult, symbolToInsert, idx);
+
+	cout << bufferResult << endl;
 
 }
