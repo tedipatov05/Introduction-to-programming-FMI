@@ -3,35 +3,43 @@
 #include <iostream>
 using namespace std;
 
-constexpr int BIGGEST_CHAR = 127;
+bool checkIsCharacter(char ch) {
+    return (ch > 'a' && ch < 'z') || (ch > 'A' && ch < 'Z');
+}
+
+char toLower(char c) {
+    if (c >= 'A' && c <= 'Z') {
+        return c + ('a' - 'A');
+    }
+    return c;
+}
+
 
 void sortCharacters(const char* str, char* result) {
-    if (!str || !result) {
-        return;
-    }
 
-    //int minCharValue = 0;
-    char minChar = (char)BIGGEST_CHAR;
-    while (*str) {
-        const char* strCopy = str;
-        while (*strCopy) {
-            if ((int)*strCopy < (int)minChar) {
-                minChar = *strCopy;
-            }
-            strCopy++;
+
+    int index = 0;
+    for (int i = 0; str[i] != '\0'; ++i) {
+        if (checkIsCharacter(str[i])) {
+            result[index++] = tolower(str[i]);
         }
-
-        str++;
-        *result = minChar;
-        result++;
-        minChar = (char)BIGGEST_CHAR;
-
     }
+    result[index] = '\0';
 
+
+    for (int i = 0; i < index - 1; ++i) {
+        for (int j = 0; j < index - i - 1; ++j) {
+            if (result[j] > result[j + 1]) {
+                char temp = result[j];
+                result[j] = result[j + 1];
+                result[j + 1] = temp;
+            }
+        }
+    }
 }
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    
 }
 
