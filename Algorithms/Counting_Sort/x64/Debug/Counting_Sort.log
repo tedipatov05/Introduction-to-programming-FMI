@@ -1,0 +1,4 @@
+﻿  Counting_Sort.cpp
+C:\Users\teodo\OneDrive\Desktop\Introduction-to-programming-FMI\Algorithms\Counting_Sort\Counting_Sort.cpp(39,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\teodo\OneDrive\Desktop\Introduction-to-programming-FMI\Algorithms\Counting_Sort\Counting_Sort.cpp(63,19): warning C4267: '=': conversion from 'size_t' to 'char', possible loss of data
+  Counting_Sort.vcxproj -> C:\Users\teodo\OneDrive\Desktop\Introduction-to-programming-FMI\Algorithms\x64\Debug\Counting_Sort.exe

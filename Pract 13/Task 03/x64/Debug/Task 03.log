@@ -1,0 +1,4 @@
+﻿  Task 03.cpp
+C:\Users\teodo\OneDrive\Desktop\Introduction-to-programming-FMI\Pract 13\Task 03\Task 03.cpp(26,9): warning C4305: 'initializing': truncation from '__int64' to 'long'
+C:\Users\teodo\OneDrive\Desktop\Introduction-to-programming-FMI\Pract 13\Task 03\Task 03.cpp(26,11): warning C4309: 'initializing': truncation of constant value
+  Task 03.vcxproj -> C:\Users\teodo\OneDrive\Desktop\Introduction-to-programming-FMI\Pract 13\x64\Debug\Task 03.exe

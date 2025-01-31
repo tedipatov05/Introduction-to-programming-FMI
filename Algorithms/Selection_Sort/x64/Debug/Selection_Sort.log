@@ -1,0 +1,4 @@
+﻿  Selection_Sort.cpp
+C:\Users\teodo\OneDrive\Desktop\Introduction-to-programming-FMI\Algorithms\Selection_Sort\Selection_Sort.cpp(29,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\teodo\OneDrive\Desktop\Introduction-to-programming-FMI\Algorithms\Selection_Sort\Selection_Sort.cpp(30,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Selection_Sort.vcxproj -> C:\Users\teodo\OneDrive\Desktop\Introduction-to-programming-FMI\Algorithms\x64\Debug\Selection_Sort.exe
