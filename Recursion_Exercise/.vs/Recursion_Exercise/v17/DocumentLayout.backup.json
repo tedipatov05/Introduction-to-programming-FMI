@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\teodo\\OneDrive\\Desktop\\Introduction-to-programming-FMI\\Recursion_Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDAD5E4B-A5CE-4D8D-87E6-0F80D4AFD185}|Task 12\\Task 12.vcxproj|C:\\Users\\teodo\\OneDrive\\Desktop\\Introduction-to-programming-FMI\\Recursion_Exercise\\Task 12\\Task 12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CDAD5E4B-A5CE-4D8D-87E6-0F80D4AFD185}|Task 12\\Task 12.vcxproj|solutionrelative:Task 12\\Task 12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A4B530D-D5A5-4453-A4FA-70604A9F0657}|\u0422\u0430\u0441\u043A 02\\\u0422\u0430\u0441\u043A 02.vcxproj|C:\\Users\\teodo\\OneDrive\\Desktop\\Introduction-to-programming-FMI\\Recursion_Exercise\\\u0422\u0430\u0441\u043A 02\\\u0422\u0430\u0441\u043A 02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9A4B530D-D5A5-4453-A4FA-70604A9F0657}|\u0422\u0430\u0441\u043A 02\\\u0422\u0430\u0441\u043A 02.vcxproj|solutionrelative:\u0422\u0430\u0441\u043A 02\\\u0422\u0430\u0441\u043A 02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5E00AD-1E4A-4024-B25D-5CD5146E9316}|Task 01\\Task 01.vcxproj|C:\\Users\\teodo\\OneDrive\\Desktop\\Introduction-to-programming-FMI\\Recursion_Exercise\\Task 01\\Task 01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC5E00AD-1E4A-4024-B25D-5CD5146E9316}|Task 01\\Task 01.vcxproj|solutionrelative:Task 01\\Task 01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Task 12.cpp",
+              "DocumentMoniker": "C:\\Users\\teodo\\OneDrive\\Desktop\\Introduction-to-programming-FMI\\Recursion_Exercise\\Task 12\\Task 12.cpp",
+              "RelativeDocumentMoniker": "Task 12\\Task 12.cpp",
+              "ToolTip": "C:\\Users\\teodo\\OneDrive\\Desktop\\Introduction-to-programming-FMI\\Recursion_Exercise\\Task 12\\Task 12.cpp",
+              "RelativeToolTip": "Task 12\\Task 12.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-01T23:34:40.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\u0422\u0430\u0441\u043A 02.cpp",
+              "DocumentMoniker": "C:\\Users\\teodo\\OneDrive\\Desktop\\Introduction-to-programming-FMI\\Recursion_Exercise\\\u0422\u0430\u0441\u043A 02\\\u0422\u0430\u0441\u043A 02.cpp",
+              "RelativeDocumentMoniker": "\u0422\u0430\u0441\u043A 02\\\u0422\u0430\u0441\u043A 02.cpp",
+              "ToolTip": "C:\\Users\\teodo\\OneDrive\\Desktop\\Introduction-to-programming-FMI\\Recursion_Exercise\\\u0422\u0430\u0441\u043A 02\\\u0422\u0430\u0441\u043A 02.cpp",
+              "RelativeToolTip": "\u0422\u0430\u0441\u043A 02\\\u0422\u0430\u0441\u043A 02.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-01T22:29:33.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Task 01.cpp",
+              "DocumentMoniker": "C:\\Users\\teodo\\OneDrive\\Desktop\\Introduction-to-programming-FMI\\Recursion_Exercise\\Task 01\\Task 01.cpp",
+              "RelativeDocumentMoniker": "Task 01\\Task 01.cpp",
+              "ToolTip": "C:\\Users\\teodo\\OneDrive\\Desktop\\Introduction-to-programming-FMI\\Recursion_Exercise\\Task 01\\Task 01.cpp",
+              "RelativeToolTip": "Task 01\\Task 01.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-01T22:10:49.304Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

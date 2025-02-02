@@ -7,20 +7,20 @@
       "RelativeMoniker": "D:0:0:{956F2854-8954-4332-83A3-7DC16599F394}|Insertion_Sort\\Insertion_Sort.vcxproj|solutionrelative:Insertion_Sort\\Insertion_Sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A25798E0-49F1-45E0-9AB4-94614510E22E}|Merge_Sort\\Merge_Sort.vcxproj|C:\\Users\\teodo\\OneDrive\\Desktop\\Introduction-to-programming-FMI\\Algorithms\\Merge_Sort\\Merge_Sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A25798E0-49F1-45E0-9AB4-94614510E22E}|Merge_Sort\\Merge_Sort.vcxproj|solutionrelative:Merge_Sort\\Merge_Sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0774D454-DF35-4363-94D0-07CD90E93D55}|Counting_Sort\\Counting_Sort.vcxproj|C:\\Users\\teodo\\OneDrive\\Desktop\\Introduction-to-programming-FMI\\Algorithms\\Counting_Sort\\Counting_Sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0774D454-DF35-4363-94D0-07CD90E93D55}|Counting_Sort\\Counting_Sort.vcxproj|solutionrelative:Counting_Sort\\Counting_Sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{C902AE6F-CEA9-4F42-A623-8ABBB51B08A7}|Selection_Sort\\Selection_Sort.vcxproj|C:\\Users\\teodo\\OneDrive\\Desktop\\Introduction-to-programming-FMI\\Algorithms\\Selection_Sort\\Selection_Sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C902AE6F-CEA9-4F42-A623-8ABBB51B08A7}|Selection_Sort\\Selection_Sort.vcxproj|solutionrelative:Selection_Sort\\Selection_Sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8B6EEFF6-6052-4CF3-BE7A-0D0D5FBB942E}|BubbleSort\\BubbleSort.vcxproj|C:\\Users\\teodo\\OneDrive\\Desktop\\Introduction-to-programming-FMI\\Algorithms\\BubbleSort\\BubbleSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8B6EEFF6-6052-4CF3-BE7A-0D0D5FBB942E}|BubbleSort\\BubbleSort.vcxproj|solutionrelative:BubbleSort\\BubbleSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C902AE6F-CEA9-4F42-A623-8ABBB51B08A7}|Selection_Sort\\Selection_Sort.vcxproj|C:\\Users\\teodo\\OneDrive\\Desktop\\Introduction-to-programming-FMI\\Algorithms\\Selection_Sort\\Selection_Sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C902AE6F-CEA9-4F42-A623-8ABBB51B08A7}|Selection_Sort\\Selection_Sort.vcxproj|solutionrelative:Selection_Sort\\Selection_Sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A25798E0-49F1-45E0-9AB4-94614510E22E}|Merge_Sort\\Merge_Sort.vcxproj|C:\\Users\\teodo\\OneDrive\\Desktop\\Introduction-to-programming-FMI\\Algorithms\\Merge_Sort\\Merge_Sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A25798E0-49F1-45E0-9AB4-94614510E22E}|Merge_Sort\\Merge_Sort.vcxproj|solutionrelative:Merge_Sort\\Merge_Sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0774D454-DF35-4363-94D0-07CD90E93D55}|Counting_Sort\\Counting_Sort.vcxproj|C:\\Users\\teodo\\OneDrive\\Desktop\\Introduction-to-programming-FMI\\Algorithms\\Counting_Sort\\Counting_Sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0774D454-DF35-4363-94D0-07CD90E93D55}|Counting_Sort\\Counting_Sort.vcxproj|solutionrelative:Counting_Sort\\Counting_Sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,26 +34,26 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Selection_Sort.cpp",
               "DocumentMoniker": "C:\\Users\\teodo\\OneDrive\\Desktop\\Introduction-to-programming-FMI\\Algorithms\\Selection_Sort\\Selection_Sort.cpp",
               "RelativeDocumentMoniker": "Selection_Sort\\Selection_Sort.cpp",
               "ToolTip": "C:\\Users\\teodo\\OneDrive\\Desktop\\Introduction-to-programming-FMI\\Algorithms\\Selection_Sort\\Selection_Sort.cpp",
               "RelativeToolTip": "Selection_Sort\\Selection_Sort.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-30T22:29:58.526Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "BubbleSort.cpp",
               "DocumentMoniker": "C:\\Users\\teodo\\OneDrive\\Desktop\\Introduction-to-programming-FMI\\Algorithms\\BubbleSort\\BubbleSort.cpp",
               "RelativeDocumentMoniker": "BubbleSort\\BubbleSort.cpp",
               "ToolTip": "C:\\Users\\teodo\\OneDrive\\Desktop\\Introduction-to-programming-FMI\\Algorithms\\BubbleSort\\BubbleSort.cpp",
               "RelativeToolTip": "BubbleSort\\BubbleSort.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-30T22:23:32.733Z",
               "EditorCaption": ""
@@ -66,33 +66,33 @@
               "RelativeDocumentMoniker": "Insertion_Sort\\Insertion_Sort.cpp",
               "ToolTip": "C:\\Users\\teodo\\OneDrive\\Desktop\\Introduction-to-programming-FMI\\Algorithms\\Insertion_Sort\\Insertion_Sort.cpp",
               "RelativeToolTip": "Insertion_Sort\\Insertion_Sort.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-30T21:49:47.719Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Counting_Sort.cpp",
               "DocumentMoniker": "C:\\Users\\teodo\\OneDrive\\Desktop\\Introduction-to-programming-FMI\\Algorithms\\Counting_Sort\\Counting_Sort.cpp",
               "RelativeDocumentMoniker": "Counting_Sort\\Counting_Sort.cpp",
               "ToolTip": "C:\\Users\\teodo\\OneDrive\\Desktop\\Introduction-to-programming-FMI\\Algorithms\\Counting_Sort\\Counting_Sort.cpp",
               "RelativeToolTip": "Counting_Sort\\Counting_Sort.cpp",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAADEAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACwAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-30T11:47:46.085Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Merge_Sort.cpp",
               "DocumentMoniker": "C:\\Users\\teodo\\OneDrive\\Desktop\\Introduction-to-programming-FMI\\Algorithms\\Merge_Sort\\Merge_Sort.cpp",
               "RelativeDocumentMoniker": "Merge_Sort\\Merge_Sort.cpp",
               "ToolTip": "C:\\Users\\teodo\\OneDrive\\Desktop\\Introduction-to-programming-FMI\\Algorithms\\Merge_Sort\\Merge_Sort.cpp",
               "RelativeToolTip": "Merge_Sort\\Merge_Sort.cpp",
-              "ViewState": "AgIAACgAAAAAAAAAAAAYwE0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-30T10:55:24.661Z",
               "EditorCaption": ""

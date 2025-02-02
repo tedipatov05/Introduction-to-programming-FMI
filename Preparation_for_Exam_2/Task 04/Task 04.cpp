@@ -12,7 +12,6 @@ long reverseNumber(long num) {
 	}
 	return reversed;
 }
-
 int digitPost(long num, int k){
 	if (k < 0){
 		return -1;

@@ -7,7 +7,13 @@ void insertionSort(int* arr, size_t length);
 
 int main()
 {
-    
+	int arr[] = { 64, 25, 12, 22, 11 };
+	insertionSort(arr, 5);
+
+	for (size_t i = 0; i < 5; i++)
+	{
+		std::cout << arr[i] << " ";
+	}
 }
 
 void insertionSort(int* arr, size_t length) {
